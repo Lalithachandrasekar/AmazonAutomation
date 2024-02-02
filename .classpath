@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-api-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-api-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-chrome-driver-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-chrome-driver-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-chromium-driver-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-chromium-driver-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-devtools-v85-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-devtools-v85-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-devtools-v119-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-devtools-v119-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-devtools-v120-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-devtools-v120-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-devtools-v121-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-devtools-v121-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-edge-driver-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-edge-driver-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-firefox-driver-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-firefox-driver-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-http-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-http-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-ie-driver-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-ie-driver-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-java-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-java-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-json-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-json-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-manager-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-manager-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-os-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-os-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-remote-driver-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-remote-driver-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-safari-driver-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-safari-driver-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-support-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-java-4.17.0/selenium-support-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/jar_files (1)/failsafe-3.2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
