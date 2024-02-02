@@ -27,7 +27,7 @@ public class AmazonSearch {
         Thread.sleep(2000);
 
         FileWriter fileWriter = new FileWriter("mobile_phones_under_15000.txt");
-        for (int i = 1; i <= 5; i++) { 
+        for (int i = 1; i <= 20; i++) { 
             List<WebElement> results = driver.findElements(By.cssSelector("div[data-component-type='s-search-result']"));
 
             for (WebElement result : results) {
